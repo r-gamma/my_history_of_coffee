@@ -1,1 +1,4 @@
-# my_history_of_coffee
+# 「忘却はよりよき前進を生む」 Friedrich Wilhelm Nietzsche
+
+いつもコーヒー豆を適当に挽いてるけど味の記録がわからない。  
+そんな私のための勝手な備忘録。  
